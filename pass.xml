@@ -1,0 +1,7 @@
+<channel-list>
+<channel number="1">
+<name>Passthrough</name>
+<multicast ip="10.8.101.126" port="5000" />
+<server ip="10.8.101.213" />
+</channel>
+</channel-list>
